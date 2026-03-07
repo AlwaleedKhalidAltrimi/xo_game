@@ -109,16 +109,16 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" alt="Gameplay Screenshot 1" width="30%" style="margin: 10px;">
-  <img src="screenshots/screenshot2.png" alt="Gameplay Screenshot 2" width="30%" style="margin: 10px;">
-  <img src="screenshots/screenshot3.png" alt="Gameplay Screenshot 3" width="30%" style="margin: 10px;">
+  <img src="screenshots/screenshot1.png" width="250" style="margin:10px;">
+  <img src="screenshots/screenshot2.png" width="250" style="margin:10px;">
+  <img src="screenshots/screenshot3.png" width="250" style="margin:10px;">
 </div>
 
 
 ## 📜 License
 
-This project is open source and available
+This project is open source and available for learning and development purposes.
 
 ## 📞 Contact
 
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions, feedback, or suggestions, feel free to get in touch. I’m happy to help!
